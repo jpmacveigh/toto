@@ -3,6 +3,6 @@ package org.eclipse.che.examples;
 public class HelloWorld {
     public static void main(String[] argvs) {
         String a = "Che";
-        System.out.println("Hello World JPMV " + a + "!");
+        System.out.println("Hello World JPMV avec Eclipse Che " + a + "!");
     }
 }
